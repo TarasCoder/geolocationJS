@@ -41,8 +41,3 @@ function init({ latitude, longitude }) {
     }),
   });
 }
-
-// Instruction:
-// https://youtu.be/VK9F8BWrOgY?si=x4bxi5VLy6J2OL6v
-// https://www.youtube.com/watch?v=DqzJ6pwSwWk
-// https://openlayers.org/
